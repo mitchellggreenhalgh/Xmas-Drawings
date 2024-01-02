@@ -1,4 +1,4 @@
-# Xmas_Drawings
+# xmas-drawings
  A script that randomizes my family's christmas gift exchange according to several rules
 
 # Required Packages
